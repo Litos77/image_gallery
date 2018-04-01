@@ -1,0 +1,61 @@
+body { padding-top: 70px;
+ }
+    .jumbotron {
+      color: #2c3e50;
+      background:  #ecf0f1;
+
+    }
+    .navbar-inverse {
+      background: #2c3e50;
+      color: white;
+    }
+    .navbar-inverse .navbar-brand, .navbar-inverse a{
+      color:white;
+    }
+    .navbar-inverse .navbar-nav>li>a {
+      color: white;
+    } 
+
+    .image1 {
+      background-image: url(https://images.unsplash.com/photo-1518474921646-56a6c21610e7?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=f6e1f7b042077d802a1ac7d5da9a855e);
+    }
+
+    .image2 {
+      background-image: url(https://images.unsplash.com/photo-1502435111737-b73ff0bad0a6?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=f006c2e32e8bf731b9dc1142ad1fdf51);
+    }
+
+    .image3 {
+      background-image: url(https://images.unsplash.com/photo-1517343585687-1482c1cfb035?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=0e254c03f911b5a7d089fa3d55818b2a);
+    }
+
+    .image4 {
+      background-image: url(https://images.unsplash.com/photo-1510953851460-301fe300c5ca?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=1a6aaf0c75fe1c81e9dd9cea9e596de2);
+    }
+
+
+    .image5 {
+      background-image: url(https://images.unsplash.com/photo-1478818681424-b20437a61390?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=39238d1ea496e12980dd0d148a484d54);
+    }
+
+    .image6 {
+      background-image: url(https://images.unsplash.com/photo-1518202952811-b7049141d766?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=7f1eee8202a305e4cfe41ebca5ce1855);
+    }
+
+    .image7 {
+      background-image: url(https://images.unsplash.com/photo-1517238187325-41042ce2865e?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=bb3eec86fa7fa1264b39fab880a71ebf);
+    }
+
+    .image8 {
+      background-image: url(https://images.unsplash.com/photo-1520781981419-e4126fdaaf0d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=92359d5e5d732e000ec8f5aea117eb54);
+    }
+
+    .image9 {
+      background-image: url(https://images.unsplash.com/photo-1521656566678-ba3a5bfd07fa?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=f484ba91a647a243a98fe80a1893976f);
+    }
+
+    .image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
